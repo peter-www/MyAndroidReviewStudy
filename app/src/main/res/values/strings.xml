@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyStudy</string>
+    <string name="version">1.0</string>
+    <string name="Button_login">试一下？</string>
+    <string name="login_hint">账号</string>
+    <string name="Button_passward">密码</string>
+    <string name="icon">icon</string>
+</resources>
